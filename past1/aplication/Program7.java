@@ -1,9 +1,9 @@
-package aplication;
+package past1.aplication;
 
 import java.util.Date;
 
-import entities.Orders;
-import entities.enums.OrderStatus;
+import past1.entities.Orders;
+import past1.entities.enums.OrderStatus;
 
 public class Program7 {
     public static void main(String[] args) {

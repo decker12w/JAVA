@@ -1,4 +1,6 @@
-import entities.Conta;
+package past1.aplication;
+
+import past1.entities.Conta;
 
 public class Test {
     public static void main(String[] args) {

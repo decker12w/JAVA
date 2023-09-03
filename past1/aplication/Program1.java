@@ -1,7 +1,8 @@
-package aplication;
+package past1.aplication;
 
 import java.util.Scanner;
-import entities.Product;
+
+import past1.entities.Product;
 
 public class Program1 {
     public static final int n = 2;

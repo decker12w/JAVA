@@ -1,6 +1,8 @@
+package past1.aplication;
+
 import java.util.Locale;
 
-import entities.Products;
+import past1.entities.Products;
 
 public class Estoque {
     public static void main(String[] args) {

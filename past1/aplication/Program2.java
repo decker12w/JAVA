@@ -1,7 +1,8 @@
-package aplication;
+package past1.aplication;
 
 import java.util.Scanner;
-import entities.Alunos;
+
+import past1.entities.Alunos;
 
 public class Program2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package entities;
+package past1.entities;
 
 public class Alunos {
     public String name;

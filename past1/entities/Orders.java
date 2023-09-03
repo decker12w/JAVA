@@ -1,8 +1,8 @@
-package entities;
+package past1.entities;
 
 import java.util.Date;
 
-import entities.enums.OrderStatus;
+import past1.entities.enums.OrderStatus;
 
 public class Orders {
     private Integer id;

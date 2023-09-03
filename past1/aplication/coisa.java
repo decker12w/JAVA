@@ -1,6 +1,8 @@
+package past1.aplication;
+
 import java.util.Scanner;
 
-import entities.Soma;
+import past1.entities.Soma;
 
 public class coisa {
     public static void main(String[] args) {

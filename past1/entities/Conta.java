@@ -1,4 +1,4 @@
-package entities;
+package past1.entities;
 
 public class Conta {
     private String nome;

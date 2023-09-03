@@ -1,11 +1,11 @@
-package aplication;
+package past1.aplication;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Employee;
+import past1.entities.Employee;
 
 public class Program4 {
 
