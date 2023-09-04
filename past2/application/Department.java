@@ -1,9 +1,13 @@
-package past2.entities;
+package past2.application;
 
-public class Departament {
+public class Department {
+
     private String name;
 
-    public Departament(String name) {
+    public Department() {
+    }
+
+    public Department(String name) {
         this.name = name;
     }
 
