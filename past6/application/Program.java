@@ -8,9 +8,5 @@ public class Program {
     public static void main(String[] args) {
 
         Account bacc = new BusinessAccount(1002, "Maria", 0.0, 500.0);
-
-        // UPCASTING
-
-        Account acc1 = bacc;
     }
 }
