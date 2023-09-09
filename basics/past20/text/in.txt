@@ -1,0 +1,5 @@
+José,josemaia.comp@gmail.com,3200.00
+Jsdosé,aosemaia.comp@gmail.com,3200.00
+Jé,bosemaia.comp@gmail.com,3200.00
+Maia,maia.comp@gmail.com,2000.0
+Maria,maria.comp@gmail.com,1000.0

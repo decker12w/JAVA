@@ -4,6 +4,7 @@ import java.time.LocalDate;
 
 import past10.entities.Contract;
 import past10.entities.Installment;
+import java.util.Objects;
 
 public class ContractService {
     private OnlinePaymentService onlinePaymentService;
